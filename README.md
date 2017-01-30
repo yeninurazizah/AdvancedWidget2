@@ -1,5 +1,8 @@
 # AdvancedWidget2
-![AdvancedWidget2] (http://s16.postimg.org/vx3qvywb9/aw2.jpg)
+###SCREENSHOT
+![AW2_1](http://s11.postimg.org/igalmpmnn/AW2_1.png)
+
+![AW2_2](http://s14.postimg.org/4l89qvak1/AW2_2.png)
 
 ###Biodata
 ####Nama : Yeni Nur Azizah
